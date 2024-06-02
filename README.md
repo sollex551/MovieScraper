@@ -1,10 +1,10 @@
 # MovieScraper
 Простой парсер фильмов
-Для устоновки нужно устоновить:
+Нужные библиотеки:
 <br> `pip install requests` <br/> 
-`pip install BeautifulSoup4` 
-`pip install art` 
-`pip install colorama` 
-`pip install tqdm` 
+`pip install BeautifulSoup4` <br/> 
+`pip install art` <br/> 
+`pip install colorama` <br/> 
+`pip install tqdm` <br/> 
 
 после устоновки всех библиотек переходим в папку и запускаем основной файл python main.py для виндовса
